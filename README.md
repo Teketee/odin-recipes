@@ -1,2 +1,2 @@
 # odin-recipes
-recipes from the odin project.
+The website will consist of a main index page which will have links to a few recipes - From The Odin Project.
